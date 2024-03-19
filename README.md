@@ -8,4 +8,4 @@ This is a repository of the tasks i made during the completion of the course
 - RNN and Long Short Term Memory (LSTM) Algorithm определяющий спам сообщения. 
 - Pattern Recognition Algorithm для игры в "камень ножницы бумага". https://replit.com/@LifeIsGood46/boilerplate-rock-paper-scissors-3?v=1#README.md
 
-Посмотреть реализацию каждого из проектов также можно посмотреть по ссылке https://www.freecodecamp.org/certification/life_is_good46/machine-learning-with-python-v7
+Посмотреть реализацию каждого из проектов также можно по ссылке https://www.freecodecamp.org/certification/life_is_good46/machine-learning-with-python-v7
